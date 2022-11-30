@@ -1,5 +1,9 @@
 # RAPIDO-S-Rapid-pickup-case-study
 
+![image](https://user-images.githubusercontent.com/117138832/204800750-3435e4e0-790c-4169-9868-91bb69ee4ea2.png)
+
+
+
 Abstract
 Rapido is the bike taxi service provider, which connects travellers to drivers for short distance drive. It is fundamentally a bike taxi form of Uber, a lot less expensive and more helpful in rush hour traffic as monstrous as Bengaluru's. India's biggest Bike Taxi service provider and accessible more than 11 urban areas and most individuals need every day travel simpler, more secure, and moderate, there are more motivations to pick Rapido Rides and reach on time with low fares and efficiently. Founded by IIT grad Aravind Sanka, Pavan Guntupalli, and Rishikesh SR in November 2015, and Investors such as former Google India Head RajanAnandan and Pawan Munjal Of Hero MotoCorp have stakes in Rapido. Rapido competes with the other organisation on least fares and give promotion code to all clients to get more discount on their cost and get more advantages by Rapido. It likewise gives an occasion for individuals with a bike (with a proper driving permit) to turn into a rider on the platform and bring in extra additional cash in their extra time. Their definitive vision is to innovate consistent commuting for all, directly at your doorstep. Joining top ability, problematic advancements, and development.
 
